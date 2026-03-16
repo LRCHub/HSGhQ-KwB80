@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "日もすがら音楽と feat. 知声（feat. 知声）",
+  "base_artist": "Reo",
+  "createdAt": "2026-03-16T22:31:13.912615Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "日もすがら音楽と (feat. 知声)",
+      "artist": "Reo",
+      "has_synced": false,
+      "path": "select/pl_01_日もすがら音楽と_(feat._知声)_Reo.txt"
+    }
+  ]
+}
